@@ -39,7 +39,7 @@ This project was developed to demonstrate the following embedded systems concept
 # Circuit Diagram
 
 The complete circuit diagram is included in this repository.
-![ciruit_diagram]()
+![ciruit_diagram](images/cd.jfif)
 Additional wiring images and hardware setup photographs are also provided to assist with project assembly.
 
 ---
