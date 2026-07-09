@@ -107,20 +107,6 @@ The complete Arduino source code for this project is available in the repository
 
 ---
 
-# Demonstration
-
-A demonstration video showcasing the complete functionality of the Flame Sensor Alarm System is included in this repository.
-
-The demonstration covers:
-
-* Flame detection
-* Variable buzzer response
-* LED alarm indicators
-* Real-time sensor monitoring
-* Overall system operation
-
----
-
 # Learning Outcomes
 
 This project strengthened practical knowledge in several embedded systems concepts, including:
