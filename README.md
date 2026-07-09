@@ -103,7 +103,7 @@ This enables developers to observe sensor behavior and verify system performance
 
 # Source Code
 
-The complete Arduino source code for this project is available in the repository's [Code]() directory.
+The complete Arduino source code for this project is available in the repository's [Code](code/flame_module_project.ino) directory.
 
 ---
 
